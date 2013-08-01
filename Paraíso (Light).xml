@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Name:       Paraíso (Light)
+    Author:     Jan T. Sott (http://github.com/idleberg)
+
+    Color scheme by Jan T. Sott (https://github.com/idleberg/Paraiso-Eclipse)
+    Inspired by the art of Rubens LP (http://www.rubenslp.com.br)
+
+-->
+<colorTheme id="18864" name="Paraíso light" modified="2013-08-01 09:26:15" author="Jan T. Sott" website="https://github.com/idleberg/Paraiso-Eclipse">
+    <searchResultIndication color="#41323F" />
+    <filteredSearchResultIndication color="#41323F" />
+    <occurrenceIndication color="#B9B6B0" />
+    <writeOccurrenceIndication color="#B9B6B0" />
+    <findScope color="#B9B6B0" />
+    <deletionIndication color="#FEC418" />
+    <sourceHoverBackground color="#2F1E2E" />
+    <singleLineComment color="#776E71" bold="false" italic="false" />
+    <multiLineComment color="#776E71" bold="false" italic="false" />
+    <commentTaskTag color="#776E71" bold="false" italic="false" />
+    <javadoc color="#8D8687" bold="false" italic="false" />
+    <javadocLink color="#2F1E2E" bold="false" underline="false" strikethrough="false" />
+    <javadocTag color="#4F424C" bold="true" />
+    <javadocKeyword color="#48B685" bold="false" />
+    <class color="#06B6EF" bold="false" />
+    <interface color="#5BC4BF" bold="false" />
+    <method color="#48B685" bold="false" />
+    <methodDeclaration color="#48B685" bold="false" />
+    <bracket color="#41323F" bold="false" />
+    <number color="#815BA4" bold="false" />
+    <string color="#2AA198" bold="false" />
+    <operator color="#E96BA8" bold="false" />
+    <keyword color="#E96BA8" bold="false" />
+    <annotation color="#41323F" bold="false" />
+    <staticMethod color="#48B685" bold="false" />
+    <localVariable color="#EF6155" bold="false" />
+    <localVariableDeclaration color="#EF6155" bold="false" />
+    <field color="#41323F" bold="false" />
+    <staticField color="#41323F" bold="false" />
+    <staticFinalField color="#41323F" bold="false" />
+    <deprecatedMember color="#EF6155" bold="false" />
+    <enum color="#F99B15" />
+    <inheritedMethod color="#06B6EF" />
+    <abstractMethod color="#06B6EF" />
+    <parameterVariable color="#EF6155" />
+    <typeArgument color="#657A81" />
+    <typeParameter color="#776E71" />
+    <constant color="#F99B15" />
+    <background color="#E7E9DB" />
+    <currentLine color="#B9B6B0" />
+    <foreground color="#2F1E2E" />
+    <lineNumber color="#8D8687" />
+    <selectionBackground color="#E7E9DB" />
+    <selectionForeground color="#A39E9B" />
+</colorTheme>

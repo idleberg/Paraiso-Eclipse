@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Name:       Paraíso (Dark)
+    Author:     Jan T. Sott (http://github.com/idleberg)
+
+    Color scheme by Jan T. Sott (https://github.com/idleberg/Paraiso-Eclipse)
+    Inspired by the art of Rubens LP (http://www.rubenslp.com.br)
+
+-->
+<colorTheme id="18861" name="Paraíso dark" modified="2013-08-01 09:27:04" author="Jan T. Sott" website="https://github.com/idleberg/Paraiso-Eclipse">
+    <searchResultIndication color="#B9B6B0" />
+    <filteredSearchResultIndication color="#B9B6B0" />
+    <occurrenceIndication color="#41323F" />
+    <writeOccurrenceIndication color="#41323F" />
+    <findScope color="#41323F" />
+    <deletionIndication color="#815BA4" />
+    <sourceHoverBackground color="#E7E9DB" />
+    <singleLineComment color="#776E71" />
+    <multiLineComment color="#776E71" />
+    <commentTaskTag color="#776E71" />
+    <javadoc color="#776E71" />
+    <javadocLink color="#E7E9DB" />
+    <javadocTag color="#A39E9B" bold="true" />
+    <javadocKeyword color="#48B685" />
+    <class color="#5BC4BF" />
+    <interface color="#5BC4BF" />
+    <method color="#48B685" />
+    <methodDeclaration color="#48B685" />
+    <bracket color="#B9B6B0" bold="false" />
+    <number color="#F99B15" />
+    <string color="#FEC418" />
+    <operator color="#E96BA8" />
+    <keyword color="#E96BA8" />
+    <annotation color="#E7E9DB" />
+    <staticMethod color="#48B685" />
+    <localVariable color="#EF6155" />
+    <localVariableDeclaration color="#EF6155" />
+    <field color="#E7E9DB" />
+    <staticField color="#E7E9DB" />
+    <staticFinalField color="#E7E9DB" />
+    <deprecatedMember color="#EF6155" />
+    <enum color="#F99B15" />
+    <inheritedMethod color="#06B6EF" />
+    <abstractMethod color="#06B6EF" />
+    <parameterVariable color="#EF6155" />
+    <typeArgument color="#776E71" />
+    <typeParameter color="#776E71" />
+    <constant color="#F99B15" />
+    <background color="#2F1E2E" />
+    <currentLine color="#4F424C" />
+    <foreground color="#E7E9DB" />
+    <lineNumber color="#776E71" />
+    <selectionBackground color="#4F424C" />
+    <selectionForeground color="#8D8687" />
+</colorTheme>
